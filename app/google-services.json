@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "777790550369",
+    "firebase_url": "https://firewallhackathon-3587c.firebaseio.com",
+    "project_id": "firewallhackathon-3587c",
+    "storage_bucket": "firewallhackathon-3587c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777790550369:android:8189612af5a71b128e1520",
+        "android_client_info": {
+          "package_name": "com.example.firewallhackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777790550369-6kehavcm6n1vkcjrpg3oln2nova8fgep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firewallhackathon",
+            "certificate_hash": "675fe4dc74d110b55c60f42b015eb5e2f9ecb882"
+          }
+        },
+        {
+          "client_id": "777790550369-vaug5m7e81ai3ia5jv9p3tktvkn16keq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5BMBAGmYgi66AXlEUohaYCH0ZDXIUwLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777790550369-vaug5m7e81ai3ia5jv9p3tktvkn16keq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
